@@ -1,0 +1,52 @@
+name: scrape trail status
+
+on:
+  schedule:
+    # Every 30 min. GitHub cron is best-effort and often runs late; that's fine,
+    # the source page updates roughly once a day.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scraper/**"
+      - ".github/workflows/scrape.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - run: pip install -r scraper/requirements.txt
+
+      - name: Run tests
+        run: python scraper/test_scrape.py
+
+      - name: Scrape
+        run: python scraper/scrape.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- data/status.json; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/status.json
+          git commit -m "data: update trail status ($(date -u +%FT%TZ))"
+          git push
