@@ -58,4 +58,4 @@ python -m venv .venv && .venv/bin/pip install -r scraper/requirements.txt
 
 ## Consumers
 
-- [`omarchy-finale-plugin`](https://github.com/bcooney/omarchy-finale-plugin) — Omarchy bar widget + panel.
+- [`omarchy-finale-plugin`](https://github.com/brian-cooney/omarchy-finale-plugin) — Omarchy bar widget + panel.
