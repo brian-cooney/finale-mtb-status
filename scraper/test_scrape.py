@@ -41,6 +41,8 @@ check(
 )
 check("real: notices capped at 3", len(s["notices"]) <= 3)
 check("real: newest notice first", s["notices"][0]["date"] == "2026-08-28")
+check("real: generated_at stamped from now", s["generated_at"] == "2026-08-28T18:00:00Z")
+check("real: checked_at stamped from now", s["checked_at"] == "2026-08-28T18:00:00Z")
 
 # --- all trails open -------------------------------------------------------
 s = load("all-open.html")
@@ -74,6 +76,36 @@ try:
     check("guard: raises on missing .news-item", False)
 except scrape.ScrapeError:
     check("guard: raises on missing .news-item", True)
+
+# --- main(): timestamp handling on an unchanged source ----------------------
+import json as _json  # noqa: E402
+import tempfile  # noqa: E402
+
+with tempfile.TemporaryDirectory() as _td:
+    out = Path(_td) / "status.json"
+    live = str(FIX / "live-bike-2026-08-27.html")
+
+    scrape.main(["--from-file", live, "--out", str(out)])
+    first = _json.loads(out.read_text())
+
+    # Re-run against the same page: generated_at is pinned to the first run,
+    # checked_at moves forward (last write is now older than MAX_CHECK_AGE
+    # only in wall-clock terms, so this run rewrites and bumps it).
+    first_written = _json.loads(out.read_text())
+    aged = dict(first_written)
+    aged["checked_at"] = "2000-01-01T00:00:00Z"
+    out.write_text(_json.dumps(aged))
+    scrape.main(["--from-file", live, "--out", str(out)])
+    second = _json.loads(out.read_text())
+    check("main: generated_at carried forward on unchanged source",
+          second["generated_at"] == first["generated_at"])
+    check("main: checked_at refreshed when the last write is stale",
+          second["checked_at"] != "2000-01-01T00:00:00Z")
+
+    # A fresh checked_at means the re-run is a no-op (no rewrite).
+    before = out.read_text()
+    scrape.main(["--from-file", live, "--out", str(out)])
+    check("main: no rewrite while checked_at is fresh", out.read_text() == before)
 
 print()
 if failures:

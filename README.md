@@ -22,6 +22,7 @@ Enable **Settings → Pages → Deploy from a branch → `main` / `/ (root)`**.
 ```json
 {
   "generated_at": "2026-08-28T15:40:00Z",
+  "checked_at": "2026-08-29T09:10:00Z",
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "as_of_date": "2026-08-28",
   "summary": { "state": "partial", "closed_count": 11 },
@@ -33,6 +34,12 @@ Enable **Settings → Pages → Deploy from a branch → `main` / `/ (root)`**.
   ]
 }
 ```
+
+| field          | meaning                                                                  |
+|----------------|-------------------------------------------------------------------------|
+| `generated_at` | when the closure list last **changed** — unchanged re-scrapes keep it   |
+| `checked_at`   | when the source was last read successfully — refreshed at least every 6 h so a consumer can tell the scraper is alive |
+| `as_of_date`   | date on the bulletin the status was derived from                        |
 
 `summary.state` is one of:
 

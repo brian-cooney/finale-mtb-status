@@ -45,6 +45,11 @@ USER_AGENT = (
 )
 DEFAULT_OUT = Path(__file__).resolve().parent.parent / "data" / "status.json"
 
+# When the closure list is unchanged we still rewrite status.json (bumping
+# checked_at) if the last write is older than this, so consumers can tell the
+# scraper is alive without a commit every run.
+MAX_CHECK_AGE = dt.timedelta(hours=6)
+
 # A run of 6+ asterisks marks the end of the trail list and the start of
 # boilerplate ("For updates ... follow our Telegram channel ...").
 BOILERPLATE_SEP = re.compile(r"\*{6,}")
@@ -218,10 +223,13 @@ def build_status(html: str, *, now: dt.datetime | None = None) -> dict:
         if age_days > 14:
             state = "unknown"
 
+    stamp = now.replace(microsecond=0).isoformat().replace("+00:00", "Z")
     return {
-        "generated_at": now.replace(microsecond=0).isoformat().replace(
-            "+00:00", "Z"
-        ),
+        # generated_at: when the closure list last changed (main() carries the
+        # old value forward when a re-scrape finds the same content).
+        # checked_at: when the source was last successfully read (every run).
+        "generated_at": stamp,
+        "checked_at": stamp,
         "source": SOURCE_URL,
         "as_of_date": as_of,
         "summary": {"state": state, "closed_count": len(closed_trails)},
@@ -232,6 +240,30 @@ def build_status(html: str, *, now: dt.datetime | None = None) -> dict:
 
 def dumps(status: dict) -> str:
     return json.dumps(status, indent=2, ensure_ascii=False, sort_keys=True) + "\n"
+
+
+def _load(path: Path) -> dict | None:
+    if not path.exists():
+        return None
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return None
+
+
+def _content(status: dict) -> str:
+    """Canonical form of everything except the timestamps."""
+    return json.dumps(
+        {k: v for k, v in status.items() if k not in ("generated_at", "checked_at")},
+        sort_keys=True,
+    )
+
+
+def _parse_stamp(raw: object) -> dt.datetime | None:
+    try:
+        return dt.datetime.fromisoformat(str(raw).replace("Z", "+00:00"))
+    except (TypeError, ValueError):
+        return None
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -250,29 +282,30 @@ def main(argv: list[str] | None = None) -> int:
             print("keeping existing status.json", file=sys.stderr)
         return 1
 
-    payload = dumps(status)
     if args.dry_run:
-        sys.stdout.write(payload)
+        sys.stdout.write(dumps(status))
         return 0
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
-    old = args.out.read_text(encoding="utf-8") if args.out.exists() else None
-    # Compare ignoring generated_at so an unchanged status is a no-op commit.
-    def _canon(s: str) -> str:
-        try:
-            d = json.loads(s)
-            d.pop("generated_at", None)
-            return json.dumps(d, sort_keys=True)
-        except (ValueError, TypeError):
-            return s
+    old = _load(args.out)
 
-    if old is not None and _canon(old) == _canon(payload):
-        print("status unchanged")
-        return 0
+    if old is not None and _content(old) == _content(status):
+        # Same closures as last time. Keep the original generated_at and only
+        # rewrite (to bump checked_at) once the last write goes stale, so an
+        # unchanged source does not mean a commit every run.
+        status["generated_at"] = old.get("generated_at", status["generated_at"])
+        last_check = _parse_stamp(old.get("checked_at"))
+        now = _parse_stamp(status["checked_at"])
+        if last_check and now and now - last_check < MAX_CHECK_AGE:
+            print("status unchanged; checked_at still fresh")
+            return 0
+        print("status unchanged; refreshing checked_at")
+    else:
+        print(f"status changed (state={status['summary']['state']}, "
+              f"closed={status['summary']['closed_count']})")
 
-    args.out.write_text(payload, encoding="utf-8")
-    print(f"wrote {args.out} (state={status['summary']['state']}, "
-          f"closed={status['summary']['closed_count']})")
+    args.out.write_text(dumps(status), encoding="utf-8")
+    print(f"wrote {args.out}")
     return 0
 
 
