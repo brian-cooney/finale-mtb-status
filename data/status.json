@@ -1,6 +1,6 @@
 {
-  "as_of_date": "2026-09-05",
-  "checked_at": "2026-09-05T12:54:52Z",
+  "as_of_date": "2026-09-06",
+  "checked_at": "2026-09-05T15:47:00Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
@@ -23,9 +23,9 @@
       "trail": "134 Supergroppo"
     },
     {
-      "area": "MELOGNO AREA",
+      "area": "MALLARE AREA",
       "note": "",
-      "trail": "177 Tagliego"
+      "trail": "441 Trail del Boccion"
     },
     {
       "area": "BARDINETO AREA",
@@ -58,12 +58,12 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-09-04T22:47:36Z",
+  "generated_at": "2026-09-05T15:47:00Z",
   "notices": [
     {
-      "date": "2026-09-05",
-      "text": "Please note that the following trails will be CLOSED on Saturday, 5th September:\n\nMANIE AREA: 3 Ca du Puncin***\nNATO BASE AREA: 96 Crestino pt.2  - 101 Ingegnere (until 2pm)***\nORCO-VEZZI AREA: 134 Supergroppo (until 2pm)***\nMELOGNO AREA: 177 Tagliego***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 5th SEPTEMBER 2026"
+      "date": "2026-09-06",
+      "text": "Please note that the following trails will be CLOSED on Sunday, 6th September:\n\nMANIE AREA: 3 Ca du Puncin***\nNATO BASE AREA: 96 Crestino pt.2  - 101 Ingegnere (until 2pm)***\nORCO-VEZZI AREA: 134 Supergroppo (until 2pm)***\nMALLARE AREA: 441 Trail del Boccion***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 6th SEPTEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
