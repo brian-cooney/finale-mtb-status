@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-09-09",
-  "checked_at": "2026-09-09T09:34:31Z",
+  "checked_at": "2026-09-09T14:10:00Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
@@ -63,12 +63,17 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-09-08T16:01:13Z",
+  "generated_at": "2026-09-09T14:10:00Z",
   "notices": [
     {
       "date": "2026-09-09",
       "text": "Please note that the following trails will be CLOSED on Wednesday, 9th September:\n\nMANIE AREA: 3 Ca du Puncin***\nNATO BASE AREA: 96 Crestino pt.2  - 101 Ingegnere (until 2pm)***\nORCO-VEZZI AREA: 134 Supergroppo (until 2pm)***\nMADONNA DELLA GUARDIA AREA: 253 Kill Bill 1***\nMALLARE AREA: 441 Trail del Boccion***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
       "title": "TRAIL STATUS - 9th SEPTEMBER 2026"
+    },
+    {
+      "date": "2026-09-09",
+      "text": "Due to the orange weather alert issued by Arpal Liguria, the following trails will be closed from 1:00 pm today, Wednesday 9th September:\n\nSPOTORNO AREA: all trails in the area***\nVADO LIGURE AREA: all trails in the area",
+      "title": "ORANGE WEATHER ALERT"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
