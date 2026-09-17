@@ -1,11 +1,16 @@
 {
   "as_of_date": "2026-09-18",
-  "checked_at": "2026-09-17T16:48:01Z",
+  "checked_at": "2026-09-17T19:59:46Z",
   "closed_trails": [
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "3 Ca du Puncin"
+    },
     {
       "area": "SAN BERNARDINO AREA",
       "note": "",
-      "trail": "54 Ca delle Vacché MANIE AREA: 3 Ca du Puncin"
+      "trail": "54 Ca delle Vacchè"
     },
     {
       "area": "NATO BASE AREA",
@@ -23,12 +28,12 @@
       "trail": "134 Supergroppo"
     },
     {
-      "area": "SPOTORNO AREA",
+      "area": "BARDINETO AREA",
       "note": "",
-      "trail": "all tha trails in the area (orange alert) BARDINETO AREA: 501 Dondella"
+      "trail": "501 Dondella"
     },
     {
-      "area": "SPOTORNO AREA",
+      "area": "BARDINETO AREA",
       "note": "",
       "trail": "507 Green River"
     },
@@ -44,15 +49,20 @@
     },
     {
       "area": "VADO LIGURE AREA",
-      "note": "orange alert",
-      "trail": "all tha trails in the area"
+      "note": "",
+      "trail": "608 Guidone"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-09-17T16:48:01Z",
+  "generated_at": "2026-09-17T19:59:46Z",
   "notices": [
     {
       "date": "2026-09-18",
-      "text": "Please note that the following trails will be CLOSED on Friday, 18th September:\n\nSAN BERNARDINO AREA: 54 Ca delle Vacché\nMANIE AREA: 3 Ca du Puncin***\nNATO BASE AREA: 96 Crestino pt.2 - 101 Ingegnere (until 2pm)***\nORCO-VEZZI AREA: 134 Supergroppo (until 2pm)***\n\nSPOTORNO AREA: all tha trails in the area (orange alert)\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: all tha trails in the area (orange alert)\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
+      "text": "Please note that the following trails will be CLOSED on Friday 18th September:\n\nMANIE AREA: 3 Ca du Puncin***\nSAN BERNARDINO AREA: 54 Ca delle Vacchè***\nNATO BASE AREA: 96 Crestino pt.2 - 101 Ingegnere (until 2pm)***\nORCO-VEZZI AREA: 134 Supergroppo (until 2pm)***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
       "title": "TRAIL STATUS - 18th SEPTEMBER 2026"
     },
     {
@@ -68,7 +78,7 @@
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 9,
+    "closed_count": 11,
     "state": "partial"
   }
 }
