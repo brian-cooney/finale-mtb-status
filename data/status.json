@@ -1,25 +1,9 @@
 {
-  "as_of_date": "2026-09-17",
-  "checked_at": "2026-09-18T15:51:37Z",
-  "closed_trails": [
-    {
-      "area": "SPOTORNO AREA",
-      "note": "",
-      "trail": "all trails in the area"
-    },
-    {
-      "area": "VADO LIGURE AREA",
-      "note": "",
-      "trail": "all trails in the area"
-    }
-  ],
-  "generated_at": "2026-09-18T15:51:37Z",
+  "as_of_date": "2026-08-05",
+  "checked_at": "2026-09-18T18:52:46Z",
+  "closed_trails": [],
+  "generated_at": "2026-09-18T18:52:46Z",
   "notices": [
-    {
-      "date": "2026-09-17",
-      "text": "Due to the orange weather alert issued by Arpal Liguria, the following trails will be closed from tomorrow, Thursday 17th September:\n\nSPOTORNO AREA: all trails in the area***\nVADO LIGURE AREA: all trails in the area",
-      "title": "ORANGE WEATHER ALERT"
-    },
     {
       "date": "2026-08-05",
       "text": "Please note that, according to the Ordinance issued by the Municipality of Orco Feglino, from Wednesday 5th August until further notice, trails 96 Crestino pt.2, 101 Ingegnere (Nato Base Area) and 134 Supregroppo (Orco-Vezzi Area) will be CLOSED UNTIL 2pm, as the road at the trail exits will be closed to both vehicles and hikers due to road works.",
@@ -28,7 +12,7 @@
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 2,
-    "state": "partial"
+    "closed_count": 0,
+    "state": "unknown"
   }
 }
