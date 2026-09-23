@@ -1,11 +1,16 @@
 {
-  "as_of_date": "2026-09-23",
-  "checked_at": "2026-09-23T07:21:45Z",
+  "as_of_date": "2026-09-24",
+  "checked_at": "2026-09-23T17:42:34Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
       "note": "",
       "trail": "3 Ca du Puncin"
+    },
+    {
+      "area": "FEGLINO AREA",
+      "note": "",
+      "trail": "406 Little Champery"
     },
     {
       "area": "BARDINETO AREA",
@@ -38,22 +43,17 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-09-22T17:08:18Z",
+  "generated_at": "2026-09-23T17:42:34Z",
   "notices": [
     {
-      "date": "2026-09-23",
-      "text": "Please note that the following trails will be CLOSED on Wednesday, 23rd September:\n\nMANIE AREA: 3 Ca du Puncin***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 23rd SEPTEMBER 2026"
-    },
-    {
-      "date": "2026-08-05",
-      "text": "Please note that, according to the Ordinance issued by the Municipality of Orco Feglino, from Wednesday 5th August until further notice, trails 96 Crestino pt.2, 101 Ingegnere (Nato Base Area) and 134 Supregroppo (Orco-Vezzi Area) will be CLOSED UNTIL 2pm, as the road at the trail exits will be closed to both vehicles and hikers due to road works.",
-      "title": "NATO BASE AREA: 96 CRESTINO pt.2 - 101 INGEGNERE ORCO-VEZZI AREA: 134 SUPERGROPPO"
+      "date": "2026-09-24",
+      "text": "Please note that the following trails will be CLOSED on Thursday, 24th September:\n\nMANIE AREA: 3 Ca du Puncin***\nFEGLINO AREA: 406 Little Champery***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 24th SEPTEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 7,
+    "closed_count": 8,
     "state": "partial"
   }
 }
