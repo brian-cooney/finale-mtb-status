@@ -1,6 +1,6 @@
 {
-  "as_of_date": "2026-09-25",
-  "checked_at": "2026-09-25T15:25:19Z",
+  "as_of_date": "2026-09-26",
+  "checked_at": "2026-09-25T19:25:37Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
@@ -8,9 +8,9 @@
       "trail": "3 Ca du Puncin"
     },
     {
-      "area": "FEGLINO AREA",
+      "area": "MELOGNO AREA",
       "note": "",
-      "trail": "406 Little Champery"
+      "trail": "181 Revenant"
     },
     {
       "area": "BARDINETO AREA",
@@ -43,12 +43,12 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-09-24T18:32:41Z",
+  "generated_at": "2026-09-25T19:25:37Z",
   "notices": [
     {
-      "date": "2026-09-25",
-      "text": "Please note that the following trails will be CLOSED on Friday, 25th September:\n\nMANIE AREA: 3 Ca du Puncin***\nFEGLINO AREA: 406 Little Champery***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 25th SEPTEMBER 2026"
+      "date": "2026-09-26",
+      "text": "Please note that the following trails will be CLOSED on Saturday, 26th September:\n\nMANIE AREA: 3 Ca du Puncin***\nMELOGNO AREA: 181 Revenant***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 26th SEPTEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
