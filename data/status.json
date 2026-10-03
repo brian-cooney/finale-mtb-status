@@ -1,54 +1,23 @@
 {
-  "as_of_date": "2026-10-03",
-  "checked_at": "2026-10-03T15:11:10Z",
-  "closed_trails": [
-    {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "3 Ca du Puncin"
-    },
-    {
-      "area": "BARDINETO AREA",
-      "note": "",
-      "trail": "501 Dondella"
-    },
-    {
-      "area": "BARDINETO AREA",
-      "note": "",
-      "trail": "507 Green River"
-    },
-    {
-      "area": "VAL NEVA AREA",
-      "note": "",
-      "trail": "535 Valle Auzza"
-    },
-    {
-      "area": "VAL NEVA AREA",
-      "note": "",
-      "trail": "536 Rio"
-    },
-    {
-      "area": "VADO LIGURE AREA",
-      "note": "",
-      "trail": "608 Guidone"
-    },
-    {
-      "area": "VADO LIGURE AREA",
-      "note": "",
-      "trail": "609 Guidone pt.2"
-    }
-  ],
-  "generated_at": "2026-10-02T20:55:03Z",
+  "as_of_date": "2026-10-04",
+  "checked_at": "2026-10-03T18:46:28Z",
+  "closed_trails": [],
+  "generated_at": "2026-10-03T18:46:28Z",
   "notices": [
     {
-      "date": "2026-10-03",
-      "text": "Please note that the following trails will be CLOSED on Saturday, 3rd October:\n\nMANIE AREA: 3 Ca du Puncin***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 3rd OCTOBER 2026"
+      "date": "2026-10-04",
+      "text": "[I|T|A]",
+      "title": "TRAIL STATUS - 4th OCTOBER 2026"
+    },
+    {
+      "date": "2026-10-04",
+      "text": "On Sunday, 4th October, the following trails will be CLOSED for a hunting trip:\n\nMANIE AREA: 10 Briga Destra - 11 Briga Sinistra***\nRANZI AREA: 337 Scoglio di Venso - 339 Trincea - 340 Blu Pervinca - 348 Sentiero del Fieno - 351 Foresto - 364 Armuin - Criceto***\nMONTE CARMO AREA: 342 Titalana (second part)\n**************************************************************************************************************************************\n\nHiking: Bric 5 Alberi trail will be closed due to hunting\n**************************************************************************************************************************************\nClimbing: all the climbing sectors above Boragni will be affected by a hunting trip",
+      "title": "HUNTING TRIP - 4th OCTOBER, 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 7,
-    "state": "partial"
+    "closed_count": 0,
+    "state": "open"
   }
 }
