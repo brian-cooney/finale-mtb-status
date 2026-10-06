@@ -1,6 +1,6 @@
 {
-  "as_of_date": "2026-10-05",
-  "checked_at": "2026-10-05T09:27:15Z",
+  "as_of_date": "2026-10-07",
+  "checked_at": "2026-10-06T19:42:14Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
@@ -8,12 +8,17 @@
       "trail": "3 Ca du Puncin"
     },
     {
-      "area": "BARDINETO AREA",
+      "area": "FEGLINO AREA",
       "note": "",
-      "trail": "501 Dondella"
+      "trail": "Legnaia"
     },
     {
-      "area": "BARDINETO AREA",
+      "area": "FEGLINO AREA",
+      "note": "",
+      "trail": "Scogliera connecting trail BARDINETO AREA: 501 Dondella"
+    },
+    {
+      "area": "FEGLINO AREA",
       "note": "",
       "trail": "507 Green River"
     },
@@ -38,17 +43,22 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-10-04T17:17:35Z",
+  "generated_at": "2026-10-06T19:42:14Z",
   "notices": [
     {
-      "date": "2026-10-05",
-      "text": "Please note that the following trails will be CLOSED on Monday, 5th October:\n\nMANIE AREA: 3 Ca du Puncin***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 5th OCTOBER 2026"
+      "date": "2026-10-07",
+      "text": "IN ADDITION to those already mentioned for the hunting trip, please note that the following trails will be CLOSED on Wednesday, 7th October:\n\nMANIE AREA: 3 Ca du Puncin***\nFEGLINO AREA: Legnaia - Scogliera connecting trail\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 7th OCTOBER 2026"
+    },
+    {
+      "date": "2026-10-07",
+      "text": "On Wednesday, 7th October, the following trails will be CLOSED for a hunting trip:\n\nSAN BERNARDINO AREA: 53 Cucco - 56 Ruggetta - 58 Sporting***\nORCO VEZZI AREA: 133 Rocche Gianche - 136 Colla San Giacomo-Rocche Gianche - 137 Variante Rocche Gianche - 139 Tagliate***\nSPOTORNO AREA: 292 Cava-Tappeto Verde - 294 Via Antica Romana - 296 Orto Botanico***\nMONTE CARMO AREA: 358 Hiroshima Mon Amour\n**************************************************************************************************************************************\n\nHiking: Bric 5 Alberi trail will be closed due to hunting",
+      "title": "HUNTING TRIP - 7th OCTOBER, 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 7,
+    "closed_count": 8,
     "state": "partial"
   }
 }
