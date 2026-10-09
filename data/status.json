@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-10-09",
-  "checked_at": "2026-10-09T02:24:01Z",
+  "checked_at": "2026-10-09T09:26:09Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
@@ -15,7 +15,12 @@
     {
       "area": "FEGLINO AREA",
       "note": "",
-      "trail": "Scogliera connecting trail BARDINETO AREA: All trails in the area VAL NEVA AREA: 535 Valle Auzza"
+      "trail": "Scogliera connecting trail BARDINETO AREA: 501 Dondella"
+    },
+    {
+      "area": "FEGLINO AREA",
+      "note": "",
+      "trail": "507 Green River VAL NEVA AREA: 535 Valle Auzza"
     },
     {
       "area": "FEGLINO AREA",
@@ -33,17 +38,17 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-10-08T17:29:25Z",
+  "generated_at": "2026-10-09T09:26:09Z",
   "notices": [
     {
       "date": "2026-10-09",
-      "text": "Please note that the following trails will be CLOSED on Friday, 9th October:\n\nMANIE AREA: 3 Ca du Puncin***\nFEGLINO AREA: Legnaia - Scogliera connecting trail\nBARDINETO AREA: All trails in the area\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 9th OCTOBER 2026"
+      "text": "Please note that the following trails will be CLOSED on Friday, 9th October:\n\nMANIE AREA: 3 Ca du Puncin***\nFEGLINO AREA: Legnaia - Scogliera connecting trail\nBARDINETO AREA:  501 Dondella - 507 Green River\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "UPDATE TRAIL STATUS - 9th OCTOBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 6,
+    "closed_count": 7,
     "state": "partial"
   }
 }
