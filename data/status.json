@@ -1,54 +1,144 @@
 {
-  "as_of_date": "2026-10-09",
-  "checked_at": "2026-10-09T09:26:09Z",
+  "as_of_date": "2026-10-10",
+  "checked_at": "2026-10-09T21:08:10Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
-      "note": "",
-      "trail": "3 Ca du Puncin"
+      "note": "secondo e terzo anello",
+      "trail": "1 24H"
     },
     {
-      "area": "FEGLINO AREA",
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "Toboga della 24H"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "6 DH uomini (UCI World Championship) / 3 Ca du Puncin SAN BERNARDINO AREA: 56 Ruggetta"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "57 Megalithic"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "Campo Rotondo (UCI World Championship) ORCO-VEZZI AREA: 134 Supergroppo (up to Cascina Strà road) (UCI World Championship) MELOGNO AREA: 170 Rollercoaster"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "172 Toboga di Canova Upper"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "174 Roll Up (UCI World Championship) MADONNA DELLA GUARDIA AREA: 255 Cacciatore"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "257 Martina (UCI World Championship) SPOTORNO AREA: 301 Vilmar"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "302 Bric Berba"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "Scooby-Doo (UCI World Championship) / 307 Zak FEGLINO AREA: 392 Pino Morto"
+    },
+    {
+      "area": "MANIE AREA",
       "note": "",
       "trail": "Legnaia"
     },
     {
-      "area": "FEGLINO AREA",
+      "area": "MANIE AREA",
       "note": "",
-      "trail": "Scogliera connecting trail BARDINETO AREA: 501 Dondella"
+      "trail": "Scogliera"
     },
     {
-      "area": "FEGLINO AREA",
+      "area": "MANIE AREA",
       "note": "",
-      "trail": "507 Green River VAL NEVA AREA: 535 Valle Auzza"
+      "trail": "393 Oribago"
     },
     {
-      "area": "FEGLINO AREA",
+      "area": "MANIE AREA",
       "note": "",
-      "trail": "536 Rio"
+      "trail": "394 Oribago 2"
     },
     {
-      "area": "VADO LIGURE AREA",
+      "area": "MANIE AREA",
       "note": "",
-      "trail": "608 Guidone"
+      "trail": "397 Neanderthal"
     },
     {
-      "area": "VADO LIGURE AREA",
+      "area": "MANIE AREA",
       "note": "",
-      "trail": "609 Guidone pt.2"
+      "trail": "398 Cromagnon"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "401 Margot"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "Lupin"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "Pernice Rossa"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "Passaggio a Nord-Ovest (UCI World Championship) MALLARE AREA: 443 Little Dog (UCI World Championship) VADO LIGURE AREA: Rock di Croi"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "Bric del Forno (UCI World Championship) / 608 Guidone"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "609 Guidone pt.2 VAL NEVA AREA: 535 Valle Auzza"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "536 Rio BARDINETO AREA : 501 Dondella"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "507 Green River"
     }
   ],
-  "generated_at": "2026-10-09T09:26:09Z",
+  "generated_at": "2026-10-09T21:08:10Z",
   "notices": [
     {
-      "date": "2026-10-09",
-      "text": "Please note that the following trails will be CLOSED on Friday, 9th October:\n\nMANIE AREA: 3 Ca du Puncin***\nFEGLINO AREA: Legnaia - Scogliera connecting trail\nBARDINETO AREA:  501 Dondella - 507 Green River\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "UPDATE TRAIL STATUS - 9th OCTOBER 2026"
+      "date": "2026-10-10",
+      "text": "Please note that the following trails will be CLOSED on Saturday, 10th October:\n\nMANIE AREA: 1 24H (secondo e terzo anello) - Toboga della 24H - 6 DH uomini (UCI World Championship) / 3 Ca du Puncin\nSAN BERNARDINO AREA: 56 Ruggetta - 57 Megalithic - Campo Rotondo (UCI World Championship)\nORCO-VEZZI AREA: 134 Supergroppo (up to Cascina Strà road)  (UCI World Championship)\nMELOGNO AREA: 170 Rollercoaster - 172 Toboga di Canova Upper - 174 Roll Up  (UCI World Championship)\nMADONNA DELLA GUARDIA AREA: 255 Cacciatore - 257 Martina  (UCI World Championship)\nSPOTORNO AREA: 301 Vilmar - 302 Bric Berba - Scooby-Doo (UCI World Championship)  / 307 Zak\nFEGLINO AREA: 392 Pino Morto - Legnaia - Scogliera - 393 Oribago - 394 Oribago 2 - 397 Neanderthal - 398 Cromagnon - 401 Margot - Lupin - Pernice Rossa - Passaggio a Nord-Ovest  (UCI World Championship)\nMALLARE AREA: 443 Little Dog (UCI World Championship)\nVADO LIGURE AREA: Rock di Croi - Bric del Forno  (UCI World Championship) / 608 Guidone - 609 Guidone pt.2\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio\nBARDINETO AREA : 501 Dondella - 507 Green River\n\n**************************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n**************************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 10th OCTOBER 2026"
+    },
+    {
+      "date": null,
+      "text": "We would like to inform you that, starting Saturday 10th October, until and including Sunday 18th October, the following trails will be closed to allow for the preparation and smooth running of the race, ensure the safety of staff working on the Special Stages and liaisons, and protect the race course.\n\nMANIE AREA: 1 24H (second and third loop) - Toboga della 24H - 6 DH Men***\nSAN BERNARDINO AREA: 56 Ruggetta - 57 Megalithic - Campo Rotondo***\nORCO-VEZZI AREA: 134 Supergroppo (up to Cascina Strà road)***\nMELOGNO AREA: 170 Rollercoaster - 172 Toboga di Canova Upper - 174 Roll Up***\nMADONNA DELLA GUARDIA AREA: 255 Cacciatore - 257 Martina***\nSPOTORNO AREA: 301 Vilmar - 302 Bric Berba - Scooby-Doo***\nVADO LIGURE AREA: Rock di Croi - Bric del Forno***\nFEGLINO AREA: 392 Pino Morto - Legnaia - Scogliera - 393 Oribago - 394 Oribago 2 - 397 Neanderthal - 398 Cromagnon - 401 Margot - Lupin - Pernice Rossa - Passaggio\na Nord-Ovest***\nMALLARE AREA: 443 Little Dog",
+      "title": "2026 UCI ENDURO WORLD CHAMPIONSHIP"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 7,
+    "closed_count": 24,
     "state": "partial"
   }
 }
