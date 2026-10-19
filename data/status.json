@@ -1,49 +1,18 @@
 {
-  "as_of_date": "2026-10-19",
-  "checked_at": "2026-10-19T07:19:56Z",
-  "closed_trails": [
-    {
-      "area": "BARDINETO AREA",
-      "note": "",
-      "trail": "501 Dondella"
-    },
-    {
-      "area": "BARDINETO AREA",
-      "note": "",
-      "trail": "507 Green River"
-    },
-    {
-      "area": "VAL NEVA AREA",
-      "note": "",
-      "trail": "535 Valle Auzza"
-    },
-    {
-      "area": "VAL NEVA AREA",
-      "note": "",
-      "trail": "536 Rio"
-    },
-    {
-      "area": "VADO LIGURE AREA",
-      "note": "",
-      "trail": "608 Guidone"
-    },
-    {
-      "area": "VADO LIGURE AREA",
-      "note": "",
-      "trail": "609 Guidone pt.2"
-    }
-  ],
-  "generated_at": "2026-10-18T16:21:33Z",
+  "as_of_date": "2026-10-20",
+  "checked_at": "2026-10-19T14:51:53Z",
+  "closed_trails": [],
+  "generated_at": "2026-10-19T14:51:53Z",
   "notices": [
     {
-      "date": "2026-10-19",
-      "text": "Please note that the following trails will be CLOSED on Monday 19th October\n\nMANIE AREA: 3 Ca du Puncin***\n\nBARDINETO AREA: 501 Dondella - 507 Green River***\n\nVAL NEVA  AREA: 535 Valle Auzza - 536 Rio***\n\nVADO LIGURE AREA: 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 19th OCTOBER 2026"
+      "date": "2026-10-20",
+      "text": "We want to inform you that, due to the orange weather alert issued by Arpal Liguria, the entire trail network will be closed all day tomorrow, Tuesday 20th October.\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL NETWORK CLOSURE – 20th OCTOBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 6,
-    "state": "partial"
+    "closed_count": 0,
+    "state": "closed"
   }
 }
