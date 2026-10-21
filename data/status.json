@@ -1,18 +1,89 @@
 {
-  "as_of_date": "2026-10-21",
-  "checked_at": "2026-10-21T05:43:37Z",
-  "closed_trails": [],
-  "generated_at": "2026-10-20T14:06:37Z",
+  "as_of_date": "2026-10-22",
+  "checked_at": "2026-10-21T20:17:27Z",
+  "closed_trails": [
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "3 Ca du Puncin"
+    },
+    {
+      "area": "SAN BERNARDINO AREA",
+      "note": "",
+      "trail": "51 Dolmen"
+    },
+    {
+      "area": "SAN BERNARDINO AREA",
+      "note": "",
+      "trail": "55 Pianarella"
+    },
+    {
+      "area": "MONTE CARMO AREA",
+      "note": "",
+      "trail": "all trails in the area"
+    },
+    {
+      "area": "BARDINETO AREA",
+      "note": "",
+      "trail": "501 Dondella"
+    },
+    {
+      "area": "BARDINETO AREA",
+      "note": "",
+      "trail": "503 Mulino"
+    },
+    {
+      "area": "BARDINETO AREA",
+      "note": "",
+      "trail": "507 Green River"
+    },
+    {
+      "area": "VAL NEVA AREA",
+      "note": "",
+      "trail": "535 Valle Auzza"
+    },
+    {
+      "area": "VAL NEVA AREA",
+      "note": "",
+      "trail": "536 Rio"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "602 Roaldo"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "607 Pineta"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "608 Guidone"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "609 Guidone pt.2"
+    }
+  ],
+  "generated_at": "2026-10-21T20:17:27Z",
   "notices": [
     {
+      "date": "2026-10-22",
+      "text": "Please note that the following trails will be CLOSED on Thursday, 22nd October:\n\nMANIE AREA: 3 Ca du Puncin***\nSAN BERNARDINO AREA: 51 Dolmen - 55 Pianarella***\nMONTE CARMO AREA: all trails in the area***\nBARDINETO AREA: 501 Dondella - 503 Mulino - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 602 Roaldo - 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 22nd OCTOBER 2026"
+    },
+    {
       "date": "2026-10-21",
-      "text": "Due to the current weather conditions and rainfall expected to continue until late this evening, the entire trail network will remain closed tomorrow, Wednesday 21st October.\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL NETWORK CLOSURE – 21st OCTOBER 2026"
+      "text": "We want to inform you that the trails Dolmen and Pianarella are closed until further notice due to a landslide on SP 27, at the trail exits.\n\n*********************************************************************************************************************************\n\nPlease also note that SP 27 (Feglino - Finale) is closed to all traffic, including bicycles, for safety works. The road will remain closed until further notice.",
+      "title": "SAN BERNARDINO AREA: 51 DOLMEN - 55 PIANARELLA PROVINCIAL ROAD 27"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 0,
-    "state": "closed"
+    "closed_count": 13,
+    "state": "partial"
   }
 }
