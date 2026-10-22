@@ -1,6 +1,6 @@
 {
-  "as_of_date": "2026-10-22",
-  "checked_at": "2026-10-22T14:21:05Z",
+  "as_of_date": "2026-10-23",
+  "checked_at": "2026-10-22T18:42:07Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
@@ -18,19 +18,14 @@
       "trail": "55 Pianarella"
     },
     {
-      "area": "MONTE CARMO AREA",
+      "area": "MELOGNO AREA",
       "note": "",
-      "trail": "all trails in the area"
+      "trail": "171 San Pantaleo"
     },
     {
       "area": "BARDINETO AREA",
       "note": "",
       "trail": "501 Dondella"
-    },
-    {
-      "area": "BARDINETO AREA",
-      "note": "",
-      "trail": "503 Mulino"
     },
     {
       "area": "BARDINETO AREA",
@@ -68,12 +63,12 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-10-21T20:17:27Z",
+  "generated_at": "2026-10-22T18:42:07Z",
   "notices": [
     {
-      "date": "2026-10-22",
-      "text": "Please note that the following trails will be CLOSED on Thursday, 22nd October:\n\nMANIE AREA: 3 Ca du Puncin***\nSAN BERNARDINO AREA: 51 Dolmen - 55 Pianarella***\nMONTE CARMO AREA: all trails in the area***\nBARDINETO AREA: 501 Dondella - 503 Mulino - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 602 Roaldo - 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 22nd OCTOBER 2026"
+      "date": "2026-10-23",
+      "text": "Please note that the following trails will be CLOSED on Friday, 23rd October:\n\nMANIE AREA: 3 Ca du Puncin***\nSAN BERNARDINO AREA: 51 Dolmen - 55 Pianarella***\nMELOGNO AREA: 171 San Pantaleo***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 602 Roaldo - 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 23rd OCTOBER 2026"
     },
     {
       "date": "2026-10-21",
@@ -83,7 +78,7 @@
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 13,
+    "closed_count": 12,
     "state": "partial"
   }
 }
