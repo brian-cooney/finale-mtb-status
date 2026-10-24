@@ -1,7 +1,12 @@
 {
-  "as_of_date": "2026-10-24",
-  "checked_at": "2026-10-24T14:44:36Z",
+  "as_of_date": "2026-10-25",
+  "checked_at": "2026-10-24T17:50:00Z",
   "closed_trails": [
+    {
+      "area": "MANIE AREA",
+      "note": "due to the archery competition",
+      "trail": "1 24H"
+    },
     {
       "area": "MANIE AREA",
       "note": "",
@@ -18,14 +23,14 @@
       "trail": "55 Pianarella"
     },
     {
-      "area": "BARDINETO AREA",
+      "area": "SPOTORNO AREA",
       "note": "",
-      "trail": "501 Dondella"
+      "trail": "303 Express Bridge"
     },
     {
       "area": "BARDINETO AREA",
       "note": "",
-      "trail": "507 Green River"
+      "trail": "501 Dondella- 507 Green River"
     },
     {
       "area": "VAL NEVA AREA",
@@ -53,22 +58,27 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-10-23T15:49:18Z",
+  "generated_at": "2026-10-24T17:50:00Z",
   "notices": [
     {
-      "date": "2026-10-24",
-      "text": "Please note that the following trails will be CLOSED on Saturday, 24th October:\n\nMANIE AREA: 3 Ca du Puncin***\nSAN BERNARDINO AREA: 51 Dolmen - 55 Pianarella***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 24th OCTOBER 2026"
+      "date": "2026-10-25",
+      "text": "We want to inform you that on Sunday, 25th October, Trail 1 – 24H (Manie Area) will be CLOSED along the section between San Martino Campsite and the La Foresta campsite area, due to an archery competition.",
+      "title": "ARCHERY COMPETITION – 25th OCTOBER 2026"
     },
     {
-      "date": "2026-10-21",
-      "text": "We want to inform you that the trails Dolmen and Pianarella are closed until further notice due to a landslide on SP 27, at the trail exits.\n\n*********************************************************************************************************************************\n\nPlease also note that SP 27 (Feglino - Finale) is closed to all traffic, including bicycles, for safety works. The road will remain closed until further notice.",
-      "title": "SAN BERNARDINO AREA: 51 DOLMEN - 55 PIANARELLA PROVINCIAL ROAD 27"
+      "date": "2026-10-25",
+      "text": "IN ADDITION to those already mentioned for the hunting trip, please note that the following trails will be CLOSED on Sunday, 25th October:\n\nMANIE AREA: 1 24H (due to the archery competition) - 3 Ca du Puncin***\nSAN BERNARDINO AREA: 51 Dolmen - 55 Pianarella***\nSPOTORNO AREA: 303 Express Bridge***\nBARDINETO AREA: 501 Dondella- 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 25th OCTOBER 2026"
+    },
+    {
+      "date": "2026-10-25",
+      "text": "On Sunday, 25th October, the following trails will be CLOSED for a hunting trip:\n\nORCO VEZZI AREA: 133 Rocche Gianche - 136 Colla San GIacomo-Rocche Gianche - 137 Variante Rocche Gianche - 139 Tagliate***\nMELOGNO AREA: 177 Tagliego***\nMADONNA DELLA GUARDIA AREA: all the trails in the area***\nSPOTORNO AREA: 292 Cava-Tappeto Verde - 294 Via Antica Romana - 296 Orto\nBotanico***\nMONTE CARMO AREA: all the trails in the area***\nMONTE GROSSO AREA: all the trails in the area***\nMALLARE AREA: 443 Little Dog",
+      "title": "HUNTING TRIP - 25th OCTOBER, 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 10,
+    "closed_count": 11,
     "state": "partial"
   }
 }
