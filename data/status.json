@@ -1,12 +1,7 @@
 {
-  "as_of_date": "2026-10-25",
-  "checked_at": "2026-10-25T10:45:54Z",
+  "as_of_date": "2026-10-26",
+  "checked_at": "2026-10-25T18:08:20Z",
   "closed_trails": [
-    {
-      "area": "MANIE AREA",
-      "note": "due to the archery competition",
-      "trail": "1 24H"
-    },
     {
       "area": "MANIE AREA",
       "note": "",
@@ -26,6 +21,11 @@
       "area": "SPOTORNO AREA",
       "note": "",
       "trail": "303 Express Bridge"
+    },
+    {
+      "area": "MONTE CARMO AREA",
+      "note": "",
+      "trail": "345 Karma Trail"
     },
     {
       "area": "BARDINETO AREA",
@@ -58,22 +58,12 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-10-25T10:45:54Z",
+  "generated_at": "2026-10-25T18:08:20Z",
   "notices": [
     {
-      "date": "2026-10-25",
-      "text": "We want to inform you that on Sunday, 25th October, Trail 1 – 24H (Manie Area) will be CLOSED along the section between San Martino Campsite and the La Foresta campsite area, due to an archery competition.",
-      "title": "ARCHERY COMPETITION – 25th OCTOBER 2026"
-    },
-    {
-      "date": "2026-10-25",
-      "text": "IN ADDITION to those already mentioned for the hunting trip, please note that the following trails will be CLOSED on Sunday, 25th October:\n\nMANIE AREA: 1 24H (due to the archery competition) - 3 Ca du Puncin***\nSAN BERNARDINO AREA: 51 Dolmen - 55 Pianarella***\nSPOTORNO AREA: 303 Express Bridge***\nBARDINETO AREA: 501 Dondella- 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 25th OCTOBER 2026"
-    },
-    {
-      "date": "2026-10-25",
-      "text": "On Sunday, 25th October, the following trails will be CLOSED for a hunting trip:\n\nORCO VEZZI AREA: 133 Rocche Gianche - 136 Colla San GIacomo-Rocche Gianche - 137 Variante Rocche Gianche - 139 Tagliate***\nMELOGNO AREA: 177 Tagliego***\nMADONNA DELLA GUARDIA AREA: all the trails in the area***\nSPOTORNO AREA: 291 Mao Crest - 297 Via Laiolo - 298 La Rete - 299 Via alla Rocca****\nMONTE CARMO AREA: all the trails in the area***\nMONTE GROSSO AREA: all the trails in the area***\nMALLARE AREA: 443 Little Dog",
-      "title": "UPDATE HUNTING TRIP - 25th OCTOBER, 2026"
+      "date": "2026-10-26",
+      "text": "Please note that the following trails will be CLOSED on Monday, 26th October:\n\nMANIE AREA: 3 Ca du Puncin***\nSAN BERNARDINO AREA: 51 Dolmen - 55 Pianarella***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella- 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 26th OCTOBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
