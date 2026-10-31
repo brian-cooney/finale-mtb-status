@@ -1,21 +1,11 @@
 {
-  "as_of_date": "2026-10-31",
-  "checked_at": "2026-10-31T15:02:15Z",
+  "as_of_date": "2026-11-01",
+  "checked_at": "2026-10-31T19:26:33Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
       "note": "",
       "trail": "3 Ca du Puncin"
-    },
-    {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "5 DH women"
-    },
-    {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "6 DH men"
     },
     {
       "area": "SPOTORNO AREA",
@@ -58,22 +48,22 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-10-30T18:43:31Z",
+  "generated_at": "2026-10-31T19:26:33Z",
   "notices": [
     {
-      "date": "2026-10-31",
-      "text": "Please note that the following trails will be CLOSED on Saturday, 31th October:\n\nMANIE AREA: 3 Ca du Puncin - 5 DH women - 6 DH men***\n\nSPOTORNO AREA: 300 La Folia -303 Express Bridge***\n\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella- 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 31th OCTOBER 2026"
+      "date": "2026-11-01",
+      "text": "Please note that the following trails will be CLOSED on Sunday, 1st November:\n\nMANIE AREA: 3 Ca du Puncin***\n\nSPOTORNO AREA: 300 La Folia -303 Express Bridge***\n\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella- 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 1st NOVEMBER 2026"
     },
     {
-      "date": "2026-10-27",
-      "text": "We would like to inform you that SP 27 is now OPEN in both directions.\n\n*********************************************************************************************************************************\n\nPlease also note that the Dolmen and Pianarella trails are now OPEN and accessible.",
-      "title": "PROVINCIAL ROAD 27 SAN BERNARDINO AREA: 51 DOLMEN - 55 PIANARELLA"
+      "date": "2026-11-01",
+      "text": "On Sunday, 1st November, the following trails will be CLOSED for a hunting trip:\n\nMANIE AREA: 16 Voltage***\n\nSAN BERNARDINO AREA: 51 Dolmen - 52 Ciappi - 53 Cucco - 55 Pianarella***\n\nNATO BASE AREA: 93 H Veloce***\n\nSPOTORNO AREA: 293 Bric Colombino***\n\nMONTE CARMO AREA: 349 Carmo per Sempre - 355 XC Giustenice - 358 Hiroshima Mon Amour - 361 Hell Boy 1 - 362 Hell Boy 2***\n\nMALLARE AREA: 441 Trail del Boccion\n\n*********************************************************************************************************************************\n\nPlease note the closure of H Veloce trail in the Nato Base Area",
+      "title": "HUNTING TRIP - 1st NOVEMBER, 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 11,
+    "closed_count": 9,
     "state": "partial"
   }
 }
