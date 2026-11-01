@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-11-01",
-  "checked_at": "2026-11-01T01:51:27Z",
+  "checked_at": "2026-11-01T08:43:13Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
@@ -48,7 +48,7 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-10-31T19:26:33Z",
+  "generated_at": "2026-11-01T08:43:13Z",
   "notices": [
     {
       "date": "2026-11-01",
@@ -57,8 +57,8 @@
     },
     {
       "date": "2026-11-01",
-      "text": "On Sunday, 1st November, the following trails will be CLOSED for a hunting trip:\n\nMANIE AREA: 16 Voltage***\n\nSAN BERNARDINO AREA: 51 Dolmen - 52 Ciappi - 53 Cucco - 55 Pianarella***\n\nNATO BASE AREA: 93 H Veloce***\n\nSPOTORNO AREA: 293 Bric Colombino***\n\nMONTE CARMO AREA: 349 Carmo per Sempre - 355 XC Giustenice - 358 Hiroshima Mon Amour - 361 Hell Boy 1 - 362 Hell Boy 2***\n\nMALLARE AREA: 441 Trail del Boccion\n\n*********************************************************************************************************************************\n\nPlease note the closure of H Veloce trail in the Nato Base Area",
-      "title": "HUNTING TRIP - 1st NOVEMBER, 2026"
+      "text": "On Sunday, 1st November, the following trails will be CLOSED for a hunting trip:\n\nMANIE AREA: 16 Voltage***\n\nSAN BERNARDINO AREA: 51 Dolmen - 52 Ciappi - 53 Cucco - 55 Pianarella***\n\nNATO BASE AREA: 93 H Veloce***\n\nSPOTORNO AREA: 293 Bric Colombino***\n\nMONTE CARMO AREA: 349 Carmo per Sempre - 355 XC Giustenice - 358 Hiroshima Mon Amour - 361 Hell Boy 1 - 362 Hell Boy 2***\n\nMALLARE AREA: 441 Trail del Boccion***\n\nBARDINETO AREA: 508 Appendaun***\n\nCASTELVECCHIO AREA: 530 Tobogazzo - 531 Trail della Foglia - 532 Il Conte - 533 La Contessa\n\n*********************************************************************************************************************************\n\nPlease note the closure of H Veloce trail in the Nato Base Area",
+      "title": "UPDATED HUNTING TRIP - 1st NOVEMBER, 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
