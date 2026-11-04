@@ -1,16 +1,11 @@
 {
-  "as_of_date": "2026-11-04",
-  "checked_at": "2026-11-04T15:06:17Z",
+  "as_of_date": "2026-11-05",
+  "checked_at": "2026-11-04T21:24:08Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
       "note": "",
       "trail": "3 Ca du Puncin"
-    },
-    {
-      "area": "SPOTORNO AREA",
-      "note": "",
-      "trail": "300 La Folia"
     },
     {
       "area": "SPOTORNO AREA",
@@ -31,6 +26,11 @@
       "area": "BARDINETO AREA",
       "note": "",
       "trail": "507 Green River"
+    },
+    {
+      "area": "OSIGLIA AREA",
+      "note": "due to today's bad weather",
+      "trail": "all trails in the area"
     },
     {
       "area": "VAL NEVA AREA",
@@ -58,17 +58,12 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-11-04T15:06:17Z",
+  "generated_at": "2026-11-04T21:24:08Z",
   "notices": [
     {
-      "date": "2026-11-04",
-      "text": "IN ADDITION to those already mentioned for the hunting trip, please note that the following trails will be CLOSED on Wednesday, 4th November:\n\nMANIE AREA: 3 Ca du Puncin***\n\nSPOTORNO AREA: 300 La Folia - 303 Express Bridge***\n\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 4th NOVEMBER 2026"
-    },
-    {
-      "date": "2026-11-04",
-      "text": "On Wednesday, 4th November, the following trails will be CLOSED for a hunting trip:\n\nORCO-VEZZI AREA: 133 Rocche Gianche - 136 Colla San Giacomo - Rocche Gianche - 137 Variante Rocche Bianche - 139 Tagliate***\n\nMELOGNO AREA: 170 Rollercoaster - 171 San Pantaleo - 174 Roll Up - 175 Collarina - 177 Tagliego***\n\nMADONNA DELLA GUARDIA AREA: tutti i sentieri dell’area***\n\nRANZI AREA: 337 Scoglio di Venso - 339 Trincea - 340 Blu Pervinca - La Cava - Criceto***\n\nMONTE CARMO AREA: 341 Oltrefinale - 342 Titalana***\n\nBARDINETO AREA: 502 Cormore - 506 Avioai***\nCASTELVECCHIO AREA: 534 Euforia",
-      "title": "UPDATED HUNTING TRIP - 4th NOVEMBER, 2026"
+      "date": "2026-11-05",
+      "text": "Please note that the following trails will be CLOSED on Thursday, 5th November:\n\nMANIE AREA: 3 Ca du Puncin***\n\nSPOTORNO AREA: 303 Express Bridge***\n\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella - 507 Green River***\n\nOSIGLIA AREA: all trails in the area (due to today's bad weather)***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 5th NOVEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
