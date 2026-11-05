@@ -1,74 +1,18 @@
 {
   "as_of_date": "2026-11-05",
-  "checked_at": "2026-11-04T21:24:08Z",
-  "closed_trails": [
-    {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "3 Ca du Puncin"
-    },
-    {
-      "area": "SPOTORNO AREA",
-      "note": "",
-      "trail": "303 Express Bridge"
-    },
-    {
-      "area": "MONTE CARMO AREA",
-      "note": "",
-      "trail": "345 Karma Trail"
-    },
-    {
-      "area": "BARDINETO AREA",
-      "note": "",
-      "trail": "501 Dondella"
-    },
-    {
-      "area": "BARDINETO AREA",
-      "note": "",
-      "trail": "507 Green River"
-    },
-    {
-      "area": "OSIGLIA AREA",
-      "note": "due to today's bad weather",
-      "trail": "all trails in the area"
-    },
-    {
-      "area": "VAL NEVA AREA",
-      "note": "",
-      "trail": "535 Valle Auzza"
-    },
-    {
-      "area": "VAL NEVA AREA",
-      "note": "",
-      "trail": "536 Rio"
-    },
-    {
-      "area": "VADO LIGURE AREA",
-      "note": "",
-      "trail": "607 Pineta"
-    },
-    {
-      "area": "VADO LIGURE AREA",
-      "note": "",
-      "trail": "608 Guidone"
-    },
-    {
-      "area": "VADO LIGURE AREA",
-      "note": "",
-      "trail": "609 Guidone pt.2"
-    }
-  ],
-  "generated_at": "2026-11-04T21:24:08Z",
+  "checked_at": "2026-11-05T08:58:17Z",
+  "closed_trails": [],
+  "generated_at": "2026-11-05T08:58:17Z",
   "notices": [
     {
       "date": "2026-11-05",
-      "text": "Please note that the following trails will be CLOSED on Thursday, 5th November:\n\nMANIE AREA: 3 Ca du Puncin***\n\nSPOTORNO AREA: 303 Express Bridge***\n\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella - 507 Green River***\n\nOSIGLIA AREA: all trails in the area (due to today's bad weather)***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 5th NOVEMBER 2026"
+      "text": "Due to the rainfall recorded by the weather stations over the past 24 hours and following consultation with the Local Municipalities, the following areas are CLOSED today, 5th November:\n\nAREA BASE NATO: all trails in the area***\nAREA ORCO-VEZZI: all trails in the area***\nAREA MELOGNO: all trails in the area***\nAREA MADONNA DELLA GUARDIA: all trails in the area***\nAREA SPOTORNO: all trails in the area***\nAREA VADO LIGURE: all trails in the area***\nAREA MONTE CARMO: all trails in the area***\nAREA FEGLINO: all trails in the area***\nAREA MALLARE: all trails in the area***\nAREA BARDINETO: all trails in the area***\nAREA OSIGLIA: all trails in the area***\nAREA VAL NEVA: all trails in the area\n*********************************************************************************************************************************\nThe following areas remain OPEN and accessible:\n\nAREA MANIE: all trails in the area, except those already reported as closed***\nAREA SAN BERNARDINO: all trails in the area, except those already reported as closed***\nAREA CAPRAZOPPA: all trails in the area***\nAREA RANZI: all trails in the area***\nAREA MONTE GROSSO: all trails in the area\n*********************************************************************************************************************************\nPlease respect the closures indicated above. Thank you for your cooperation.",
+      "title": "TRAIL NETWORK CLOSURE – 5th NOVEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 11,
+    "closed_count": 0,
     "state": "partial"
   }
 }
