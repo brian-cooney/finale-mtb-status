@@ -1,7 +1,12 @@
 {
-  "as_of_date": "2026-11-06",
-  "checked_at": "2026-11-06T11:19:05Z",
+  "as_of_date": "2026-11-07",
+  "checked_at": "2026-11-06T18:13:23Z",
   "closed_trails": [
+    {
+      "area": "ORCO-VEZZI AREA",
+      "note": "",
+      "trail": "all trails in the area"
+    },
     {
       "area": "MELOGNO AREA",
       "note": "",
@@ -48,32 +53,22 @@
       "trail": "609 Guidone pt.2"
     },
     {
-      "area": "MALLARE AREA",
-      "note": "",
-      "trail": "all trails in the area"
-    },
-    {
       "area": "BARDINETO AREA",
-      "note": "",
-      "trail": "all trails in the area"
-    },
-    {
-      "area": "OSIGLIA AREA",
       "note": "",
       "trail": "all trails in the area"
     }
   ],
-  "generated_at": "2026-11-06T11:19:05Z",
+  "generated_at": "2026-11-06T18:13:23Z",
   "notices": [
     {
-      "date": "2026-11-06",
-      "text": "Due to the weather conditions and the rainfall recorded, and in agreement with the Local Municipalities, the following trails will be closed on Friday, 6th November:\n\nMELOGNO AREA: 176 Bric Merizzo – 179 Fast and Furious – 180 Isallo Extasy – 181 Revenant***\nSPOTORNO AREA: 303 Express Bridge***\nVADO LIGURE AREA: Rocca dei Corvi – 607 Pineta – 608 Guidone – 609 Guidone pt.2***\nMALLARE AREA: all trails in the area***\nBARDINETO AREA: all trails in the area***\nOSIGLIA AREA: all trails in the area\n\n*********************************************************************************************************************************\n\nPlease respect the closures indicated above. Thank you for your cooperation.",
-      "title": "!! UPDATE: TRAIL STATUS - 6th NOVEMBER 2026"
+      "date": "2026-11-07",
+      "text": "Due to the weather conditions and the rainfall recorded, and in agreement with the Local Municipalities, the following trails will be closed on Saturday, 7th November:\n\nORCO-VEZZI AREA: all trails in the area***\nMELOGNO AREA: 176 Bric Merizzo – 179 Fast and Furious – 180 Isallo Extasy – 181 Revenant***\nSPOTORNO AREA: 303 Express Bridge***\nVADO LIGURE AREA: Rocca dei Corvi – 607 Pineta – 608 Guidone – 609 Guidone pt.2***\nBARDINETO AREA: all trails in the area\n\n*********************************************************************************************************************************\n\nPlease respect the closures indicated above. Thank you for your cooperation.",
+      "title": "TRAIL STATUS - 7th NOVEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 12,
+    "closed_count": 11,
     "state": "partial"
   }
 }
