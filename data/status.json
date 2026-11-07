@@ -1,32 +1,7 @@
 {
   "as_of_date": "2026-11-07",
-  "checked_at": "2026-11-07T03:01:28Z",
+  "checked_at": "2026-11-07T10:33:26Z",
   "closed_trails": [
-    {
-      "area": "ORCO-VEZZI AREA",
-      "note": "",
-      "trail": "all trails in the area"
-    },
-    {
-      "area": "MELOGNO AREA",
-      "note": "",
-      "trail": "176 Bric Merizzo"
-    },
-    {
-      "area": "MELOGNO AREA",
-      "note": "",
-      "trail": "179 Fast and Furious"
-    },
-    {
-      "area": "MELOGNO AREA",
-      "note": "",
-      "trail": "180 Isallo Extasy"
-    },
-    {
-      "area": "MELOGNO AREA",
-      "note": "",
-      "trail": "181 Revenant"
-    },
     {
       "area": "SPOTORNO AREA",
       "note": "",
@@ -58,17 +33,17 @@
       "trail": "all trails in the area"
     }
   ],
-  "generated_at": "2026-11-06T18:13:23Z",
+  "generated_at": "2026-11-07T10:33:26Z",
   "notices": [
     {
       "date": "2026-11-07",
-      "text": "Due to the weather conditions and the rainfall recorded, and in agreement with the Local Municipalities, the following trails will be closed on Saturday, 7th November:\n\nORCO-VEZZI AREA: all trails in the area***\nMELOGNO AREA: 176 Bric Merizzo – 179 Fast and Furious – 180 Isallo Extasy – 181 Revenant***\nSPOTORNO AREA: 303 Express Bridge***\nVADO LIGURE AREA: Rocca dei Corvi – 607 Pineta – 608 Guidone – 609 Guidone pt.2***\nBARDINETO AREA: all trails in the area\n\n*********************************************************************************************************************************\n\nPlease respect the closures indicated above. Thank you for your cooperation.",
-      "title": "TRAIL STATUS - 7th NOVEMBER 2026"
+      "text": "Due to the weather conditions and the rainfall recorded, and in agreement with the Local Municipalities, the following trails will be closed on Saturday, 7th November:\n\nSPOTORNO AREA: 303 Express Bridge***\nVADO LIGURE AREA: Rocca dei Corvi – 607 Pineta – 608 Guidone – 609 Guidone pt.2***\nBARDINETO AREA: all trails in the area\n\n*********************************************************************************************************************************\n\nPlease respect the closures indicated above. Thank you for your cooperation.",
+      "title": "UPDATED TRAIL STATUS - 7th NOVEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 11,
+    "closed_count": 6,
     "state": "partial"
   }
 }
