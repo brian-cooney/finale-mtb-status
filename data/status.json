@@ -1,115 +1,65 @@
 {
   "as_of_date": "2026-11-08",
-  "checked_at": "2026-11-07T16:44:12Z",
+  "checked_at": "2026-11-07T20:39:57Z",
   "closed_trails": [
-    {
-      "area": "MANIE AREA",
-      "note": "area around San Martino campsite",
-      "trail": "1 24H"
-    },
     {
       "area": "MANIE AREA",
       "note": "",
       "trail": "3 Ca du Puncin"
     },
     {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "4 Sentiero dei Ciechi"
-    },
-    {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "12 Polveriera"
-    },
-    {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "16 Voltage"
-    },
-    {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "18 Cave"
-    },
-    {
-      "area": "ORCO-VEZZI AREA",
-      "note": "",
-      "trail": "134 Supergroppo"
-    },
-    {
-      "area": "MELOGNO AREA",
-      "note": "",
-      "trail": "176 Bric Merizzo"
-    },
-    {
-      "area": "MELOGNO AREA",
-      "note": "",
-      "trail": "179 Fast and Furious"
-    },
-    {
-      "area": "MELOGNO AREA",
-      "note": "",
-      "trail": "180 Isallo Extasi"
-    },
-    {
-      "area": "MELOGNO AREA",
-      "note": "",
-      "trail": "181 Revenant"
-    },
-    {
       "area": "SPOTORNO AREA",
       "note": "",
-      "trail": "293 Bric Colombino"
+      "trail": "303 Express Bridge"
     },
     {
       "area": "MONTE CARMO AREA",
       "note": "",
-      "trail": "343 Rocknrolla"
+      "trail": "345 Karma Trail"
     },
     {
-      "area": "MONTE CARMO AREA",
+      "area": "BARDINETO AREA",
       "note": "",
-      "trail": "344 Dog Eat Dog"
+      "trail": "501 Dondella"
     },
     {
-      "area": "MONTE CARMO AREA",
+      "area": "BARDINETO AREA",
       "note": "",
-      "trail": "349 Carmo per Sempre"
+      "trail": "507 Green River"
     },
     {
-      "area": "MONTE CARMO AREA",
+      "area": "VAL NEVA AREA",
       "note": "",
-      "trail": "352 Aleluya"
+      "trail": "535 Valle Auzza"
     },
     {
-      "area": "MALLARE AREA",
+      "area": "VAL NEVA AREA",
       "note": "",
-      "trail": "441 Trail del Boccion"
+      "trail": "536 Rio"
     },
     {
-      "area": "MALLARE AREA",
+      "area": "VADO LIGURE AREA",
       "note": "",
-      "trail": "444 Neverland"
+      "trail": "607 Pineta"
     },
     {
-      "area": "MALLARE AREA",
+      "area": "VADO LIGURE AREA",
       "note": "",
-      "trail": "445 Benevento Beeches"
+      "trail": "608 Guidone"
     },
     {
-      "area": "MALLARE AREA",
+      "area": "VADO LIGURE AREA",
       "note": "",
-      "trail": "446 Carbonera"
-    },
-    {
-      "area": "MALLARE AREA",
-      "note": "",
-      "trail": "447 Black Mamba"
+      "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-11-07T16:44:12Z",
+  "generated_at": "2026-11-07T20:39:57Z",
   "notices": [
+    {
+      "date": "2026-11-08",
+      "text": "IN ADDITION to those already mentioned for the hunting trip, please note that the following trails will be CLOSED on Sunday, 8th November:\n\nMANIE AREA: 3 Ca du Puncin***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 8th NOVEMBER 2026"
+    },
     {
       "date": "2026-11-08",
       "text": "On Sunday, 8th November, the following trails will be CLOSED for a hunting trip:\n\nMANIE AREA: 1 24H (area around San Martino campsite) - 3 Ca du Puncin - 4 Sentiero dei Ciechi - 12 Polveriera - 16 Voltage - 18 Cave***\n\nORCO-VEZZI AREA: 134 Supergroppo***\n\nMELOGNO AREA: 176 Bric Merizzo - 179 Fast and Furious - 180 Isallo Extasi - 181 Revenant***\n\nSPOTORNO AREA: 293 Bric Colombino***\n\nMONTE CARMO AREA: 343 Rocknrolla - 344 Dog Eat Dog - 349 Carmo per Sempre - 352 Aleluya***\n\nMALLARE AREA: 441 Trail del Boccion - 444 Neverland - 445 Benevento Beeches - 446 Carbonera - 447 Black Mamba\n\n*********************************************************************************************************************************\n\nAny updates regarding the areas not yet included will be communicated as soon as they become available.",
@@ -118,7 +68,7 @@
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 21,
+    "closed_count": 10,
     "state": "partial"
   }
 }
