@@ -1,49 +1,124 @@
 {
-  "as_of_date": "2026-11-07",
-  "checked_at": "2026-11-07T10:33:26Z",
+  "as_of_date": "2026-11-08",
+  "checked_at": "2026-11-07T16:44:12Z",
   "closed_trails": [
+    {
+      "area": "MANIE AREA",
+      "note": "area around San Martino campsite",
+      "trail": "1 24H"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "3 Ca du Puncin"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "4 Sentiero dei Ciechi"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "12 Polveriera"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "16 Voltage"
+    },
+    {
+      "area": "MANIE AREA",
+      "note": "",
+      "trail": "18 Cave"
+    },
+    {
+      "area": "ORCO-VEZZI AREA",
+      "note": "",
+      "trail": "134 Supergroppo"
+    },
+    {
+      "area": "MELOGNO AREA",
+      "note": "",
+      "trail": "176 Bric Merizzo"
+    },
+    {
+      "area": "MELOGNO AREA",
+      "note": "",
+      "trail": "179 Fast and Furious"
+    },
+    {
+      "area": "MELOGNO AREA",
+      "note": "",
+      "trail": "180 Isallo Extasi"
+    },
+    {
+      "area": "MELOGNO AREA",
+      "note": "",
+      "trail": "181 Revenant"
+    },
     {
       "area": "SPOTORNO AREA",
       "note": "",
-      "trail": "303 Express Bridge"
+      "trail": "293 Bric Colombino"
     },
     {
-      "area": "VADO LIGURE AREA",
+      "area": "MONTE CARMO AREA",
       "note": "",
-      "trail": "Rocca dei Corvi"
+      "trail": "343 Rocknrolla"
     },
     {
-      "area": "VADO LIGURE AREA",
+      "area": "MONTE CARMO AREA",
       "note": "",
-      "trail": "607 Pineta"
+      "trail": "344 Dog Eat Dog"
     },
     {
-      "area": "VADO LIGURE AREA",
+      "area": "MONTE CARMO AREA",
       "note": "",
-      "trail": "608 Guidone"
+      "trail": "349 Carmo per Sempre"
     },
     {
-      "area": "VADO LIGURE AREA",
+      "area": "MONTE CARMO AREA",
       "note": "",
-      "trail": "609 Guidone pt.2"
+      "trail": "352 Aleluya"
     },
     {
-      "area": "BARDINETO AREA",
+      "area": "MALLARE AREA",
       "note": "",
-      "trail": "all trails in the area"
+      "trail": "441 Trail del Boccion"
+    },
+    {
+      "area": "MALLARE AREA",
+      "note": "",
+      "trail": "444 Neverland"
+    },
+    {
+      "area": "MALLARE AREA",
+      "note": "",
+      "trail": "445 Benevento Beeches"
+    },
+    {
+      "area": "MALLARE AREA",
+      "note": "",
+      "trail": "446 Carbonera"
+    },
+    {
+      "area": "MALLARE AREA",
+      "note": "",
+      "trail": "447 Black Mamba"
     }
   ],
-  "generated_at": "2026-11-07T10:33:26Z",
+  "generated_at": "2026-11-07T16:44:12Z",
   "notices": [
     {
-      "date": "2026-11-07",
-      "text": "Due to the weather conditions and the rainfall recorded, and in agreement with the Local Municipalities, the following trails will be closed on Saturday, 7th November:\n\nSPOTORNO AREA: 303 Express Bridge***\nVADO LIGURE AREA: Rocca dei Corvi – 607 Pineta – 608 Guidone – 609 Guidone pt.2***\nBARDINETO AREA: all trails in the area\n\n*********************************************************************************************************************************\n\nPlease respect the closures indicated above. Thank you for your cooperation.",
-      "title": "UPDATED TRAIL STATUS - 7th NOVEMBER 2026"
+      "date": "2026-11-08",
+      "text": "On Sunday, 8th November, the following trails will be CLOSED for a hunting trip:\n\nMANIE AREA: 1 24H (area around San Martino campsite) - 3 Ca du Puncin - 4 Sentiero dei Ciechi - 12 Polveriera - 16 Voltage - 18 Cave***\n\nORCO-VEZZI AREA: 134 Supergroppo***\n\nMELOGNO AREA: 176 Bric Merizzo - 179 Fast and Furious - 180 Isallo Extasi - 181 Revenant***\n\nSPOTORNO AREA: 293 Bric Colombino***\n\nMONTE CARMO AREA: 343 Rocknrolla - 344 Dog Eat Dog - 349 Carmo per Sempre - 352 Aleluya***\n\nMALLARE AREA: 441 Trail del Boccion - 444 Neverland - 445 Benevento Beeches - 446 Carbonera - 447 Black Mamba\n\n*********************************************************************************************************************************\n\nAny updates regarding the areas not yet included will be communicated as soon as they become available.",
+      "title": "HUNTING TRIP - 8th NOVEMBER, 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 6,
+    "closed_count": 21,
     "state": "partial"
   }
 }
