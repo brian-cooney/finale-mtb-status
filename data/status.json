@@ -1,6 +1,6 @@
 {
-  "as_of_date": "2026-11-09",
-  "checked_at": "2026-11-09T10:04:00Z",
+  "as_of_date": "2026-11-10",
+  "checked_at": "2026-11-10T11:31:07Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
@@ -10,7 +10,7 @@
     {
       "area": "MELOGNO AREA",
       "note": "",
-      "trail": "180 Isallo Extasi"
+      "trail": "179 Fast and Furious"
     },
     {
       "area": "SPOTORNO AREA",
@@ -25,12 +25,12 @@
     {
       "area": "BARDINETO AREA",
       "note": "",
-      "trail": "501 Dondella"
+      "trail": "all trails in the area"
     },
     {
-      "area": "BARDINETO AREA",
+      "area": "OSIGLIA AREA",
       "note": "",
-      "trail": "507 Green River"
+      "trail": "all trails in the area"
     },
     {
       "area": "VAL NEVA AREA",
@@ -58,12 +58,12 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-11-08T22:39:48Z",
+  "generated_at": "2026-11-10T11:31:07Z",
   "notices": [
     {
-      "date": "2026-11-09",
-      "text": "Please note that the following trails will be CLOSED on Monday, 9th November:\n\nMANIE AREA: 3 Ca du Puncin***\nMELOGNO AREA: 180 Isallo Extasi***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 9th NOVEMBER 2026"
+      "date": "2026-11-10",
+      "text": "Please note that the following trails will be CLOSED on Tuesday, 10th November:\n\nMANIE AREA: 3 Ca du Puncin***\n\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: all trails in the area***\n\nOSIGLIA AREA: all trails in the area***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "UPDATED TRAIL STATUS - 10th NOVEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
