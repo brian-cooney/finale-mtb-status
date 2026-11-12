@@ -1,18 +1,18 @@
 {
   "as_of_date": "2026-11-13",
-  "checked_at": "2026-11-12T18:41:24Z",
+  "checked_at": "2026-11-12T23:57:51Z",
   "closed_trails": [],
-  "generated_at": "2026-11-12T18:41:24Z",
+  "generated_at": "2026-11-12T23:57:51Z",
   "notices": [
     {
       "date": "2026-11-13",
-      "text": "Due to today’s rainfall, which is forecast to continue until this evening, the trail network will be closed tomorrow, Friday 13th November.\nTomorrow morning, depending on weather conditions, some trails may be reopened. Any updates will be communicated promptly.",
-      "title": "UPDATED TRAIL STATUS - 13th NOVEMBER 2026"
+      "text": "As the rain has stopped earlier than initially forecast and wind conditions are improving, we inform you that the following areas will REOPEN tomorrow morning, Friday 13th November:\n\nMANIE AREA***\nSAN BERNARDINO AREA***\nCAPRAZOPPA AREA***\nMONTE GROSSO AREA***\nRANZI AREA\n\n*********************************************************************************************************************************\n\nWe also inform you that the following areas will REOPEN from 1:00 pm:\n\nSPOTORNO AREA***\n* VADO LIGURE AREA – except for trail 602 Roaldo\n\n*********************************************************************************************************************************\n\nDuring the morning, we will assess the weather conditions and, in consultation with the Local Municipalities, decide whether any other areas can reopen in the afternoon.",
+      "title": "!! UPDATE: TRAIL NETWORK CLOSURES – 13th NOVEMBER, 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
     "closed_count": 0,
-    "state": "partial"
+    "state": "open"
   }
 }
