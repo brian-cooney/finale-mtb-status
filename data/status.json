@@ -1,18 +1,18 @@
 {
-  "as_of_date": "2026-11-11",
-  "checked_at": "2026-11-12T10:39:44Z",
+  "as_of_date": "2026-11-13",
+  "checked_at": "2026-11-12T18:41:24Z",
   "closed_trails": [],
-  "generated_at": "2026-11-12T10:39:44Z",
+  "generated_at": "2026-11-12T18:41:24Z",
   "notices": [
     {
-      "date": "2026-11-11",
-      "text": "Due to today's rainfall and the weather forecast, the entire trail network is closed for the whole day, today 12th November.",
-      "title": "UPDATED TRAIL STATUS - 12th NOVEMBER 2026"
+      "date": "2026-11-13",
+      "text": "Due to today’s rainfall, which is forecast to continue until this evening, the trail network will be closed tomorrow, Friday 13th November.\nTomorrow morning, depending on weather conditions, some trails may be reopened. Any updates will be communicated promptly.",
+      "title": "UPDATED TRAIL STATUS - 13th NOVEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
     "closed_count": 0,
-    "state": "closed"
+    "state": "partial"
   }
 }
