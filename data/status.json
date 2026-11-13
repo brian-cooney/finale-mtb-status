@@ -1,18 +1,69 @@
 {
-  "as_of_date": "2026-11-13",
-  "checked_at": "2026-11-13T06:01:26Z",
-  "closed_trails": [],
-  "generated_at": "2026-11-12T23:57:51Z",
+  "as_of_date": "2026-11-14",
+  "checked_at": "2026-11-13T14:46:49Z",
+  "closed_trails": [
+    {
+      "area": "MELOGNO AREA",
+      "note": "",
+      "trail": "179 Fast and Furious"
+    },
+    {
+      "area": "SPOTORNO AREA",
+      "note": "",
+      "trail": "303 Express Bridge"
+    },
+    {
+      "area": "MONTE CARMO AREA",
+      "note": "",
+      "trail": "345 Karma Trail"
+    },
+    {
+      "area": "BARDINETO AREA",
+      "note": "",
+      "trail": "501 Dondella"
+    },
+    {
+      "area": "BARDINETO AREA",
+      "note": "",
+      "trail": "507 Green River"
+    },
+    {
+      "area": "VAL NEVA AREA",
+      "note": "",
+      "trail": "535 Valle Auzza"
+    },
+    {
+      "area": "VAL NEVA AREA",
+      "note": "",
+      "trail": "536 Rio"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "607 Pineta"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "608 Guidone"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "609 Guidone pt.2"
+    }
+  ],
+  "generated_at": "2026-11-13T14:46:49Z",
   "notices": [
     {
-      "date": "2026-11-13",
-      "text": "As the rain has stopped earlier than initially forecast and wind conditions are improving, we inform you that the following areas will REOPEN tomorrow morning, Friday 13th November:\n\nMANIE AREA***\nSAN BERNARDINO AREA***\nCAPRAZOPPA AREA***\nMONTE GROSSO AREA***\nRANZI AREA\n\n*********************************************************************************************************************************\n\nWe also inform you that the following areas will REOPEN from 1:00 pm:\n\nSPOTORNO AREA***\n* VADO LIGURE AREA – except for trail 602 Roaldo\n\n*********************************************************************************************************************************\n\nDuring the morning, we will assess the weather conditions and, in consultation with the Local Municipalities, decide whether any other areas can reopen in the afternoon.",
-      "title": "!! UPDATE: TRAIL NETWORK CLOSURES – 13th NOVEMBER, 2026"
+      "date": "2026-11-14",
+      "text": "Please note that the following trails will be CLOSED on Saturday, 14th November. We kindly ask you to take care for any fallen trees and to report any issues or critical situations you may encounter, sending us photos and the exact location.\n\nMANIE AREA: 3 Ca du Puncin***\n\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 14th NOVEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 0,
-    "state": "open"
+    "closed_count": 10,
+    "state": "partial"
   }
 }
