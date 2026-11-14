@@ -1,6 +1,6 @@
 {
-  "as_of_date": "2026-11-14",
-  "checked_at": "2026-11-14T15:33:57Z",
+  "as_of_date": "2026-11-15",
+  "checked_at": "2026-11-14T20:25:24Z",
   "closed_trails": [
     {
       "area": "MELOGNO AREA",
@@ -16,6 +16,16 @@
       "area": "MONTE CARMO AREA",
       "note": "",
       "trail": "345 Karma Trail"
+    },
+    {
+      "area": "MONTE CARMO AREA",
+      "note": "",
+      "trail": "352 Aleluya"
+    },
+    {
+      "area": "MALLARE AREA",
+      "note": "",
+      "trail": "441 Trail del Boccion"
     },
     {
       "area": "BARDINETO AREA",
@@ -38,6 +48,11 @@
       "trail": "536 Rio"
     },
     {
+      "area": "VAL NEVA AREA",
+      "note": "",
+      "trail": "537 Ca du Campu"
+    },
+    {
       "area": "VADO LIGURE AREA",
       "note": "",
       "trail": "607 Pineta"
@@ -53,17 +68,22 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-11-13T14:46:49Z",
+  "generated_at": "2026-11-14T20:25:24Z",
   "notices": [
     {
-      "date": "2026-11-14",
-      "text": "Please note that the following trails will be CLOSED on Saturday, 14th November. We kindly ask you to take care for any fallen trees and to report any issues or critical situations you may encounter, sending us photos and the exact location.\n\nMANIE AREA: 3 Ca du Puncin***\n\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 14th NOVEMBER 2026"
+      "date": "2026-11-15",
+      "text": "IN ADDITION to those already mentioned for the hunting trip, please note that the following trails will be CLOSED on Sunday, 15th November.\n\nMANIE AREA: 3 Ca du Puncin***\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail - 352 Aleluya***\nMALLARE AREA: 441 Trail del Boccion***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio - 537 Ca du Campu***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2***\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 15th NOVEMBER 2026"
+    },
+    {
+      "date": "2026-11-15",
+      "text": "On Sunday, 15th November, the following trails will be CLOSED for a hunting trip:\n\nMANIE AREA: 5 DH Donne - 6 DH Uomini - 13 Radici - 20 Fornaci***\n\nBASE NATO AREA: 93 H Veloce***\n\nMELOGNO AREA:  176 Bric Merizzo - 179 Fast and Furious - 180 Isallo Extasi - 181 Revenant - 182 Mugugno - 183 Issalo***\n\nCAPRAZOPPA AREA: 216 Sentiero delle spine***\n\nSPOTORNO AREA: 291 Mao Crest - 293 Bric Colombino - 297 Via Laiolo***\n\nRANZI AREA: 337 Scoglio di Venso - 339 Trincea - 340 Blu Pervinca - 347 Gabri - 364 Armuin - Criceto - La Cava***\n\nMONTE CARMO AREA: 341 Oltre Finale - 342 Titalana - 343 RocknRolla - 358 Hiroshima Mon Amour***\n\nFEGLINO AREA: 405 Cà Bianca - 406 Little Champery***\n\nMALLARE AREA: 443 Little Dog\n\n*********************************************************************************************************************************\n\nAny updates regarding the areas not yet included will be communicated as soon as they become available.",
+      "title": "HUNTING TRIP - 15th NOVEMBER, 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 10,
+    "closed_count": 13,
     "state": "partial"
   }
 }
