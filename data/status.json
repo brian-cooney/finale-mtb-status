@@ -1,49 +1,94 @@
 {
-  "as_of_date": "2026-11-18",
-  "checked_at": "2026-11-18T08:52:10Z",
+  "as_of_date": "2026-11-19",
+  "checked_at": "2026-11-18T17:46:48Z",
   "closed_trails": [
     {
-      "area": "SAN BERNARDINO AREA",
+      "area": "MANIE AREA",
       "note": "",
-      "trail": "56 Ruggetta"
+      "trail": "3 Ca du Puncin"
     },
     {
-      "area": "SAN BERNARDINO AREA",
+      "area": "MANIE AREA",
       "note": "",
-      "trail": "58 Sporting"
+      "trail": "Indiano Trail"
+    },
+    {
+      "area": "MELOGNO AREA",
+      "note": "",
+      "trail": "179 Fast and Furious"
+    },
+    {
+      "area": "SPOTORNO AREA",
+      "note": "",
+      "trail": "303 Express Bridge"
     },
     {
       "area": "MONTE CARMO AREA",
       "note": "",
-      "trail": "349 Carmo per Sempre"
+      "trail": "345 Karma Trail"
+    },
+    {
+      "area": "MONTE CARMO AREA",
+      "note": "",
+      "trail": "352 Aleluya"
+    },
+    {
+      "area": "MALLARE AREA",
+      "note": "",
+      "trail": "441 Trail del Boccion"
+    },
+    {
+      "area": "MALLARE AREA",
+      "note": "",
+      "trail": "445 Benvento Beeches"
     },
     {
       "area": "BARDINETO AREA",
       "note": "",
-      "trail": "508 Appendaun"
+      "trail": "501 Dondella"
+    },
+    {
+      "area": "BARDINETO AREA",
+      "note": "",
+      "trail": "507 Green River"
+    },
+    {
+      "area": "VAL NEVA AREA",
+      "note": "",
+      "trail": "535 Valle Auzza"
+    },
+    {
+      "area": "VAL NEVA AREA",
+      "note": "",
+      "trail": "536 Rio"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "607 Pineta"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "608 Guidone"
+    },
+    {
+      "area": "VADO LIGURE AREA",
+      "note": "",
+      "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-11-18T08:52:10Z",
+  "generated_at": "2026-11-18T17:46:48Z",
   "notices": [
     {
-      "date": "2026-11-18",
-      "text": "On Wednesday, 18th November, the following trails will be CLOSED for a hunting trip:\n\nSAN BERNARDINO AREA: 56 Ruggetta - 58 Sporting***\nMONTE CARMO AREA: 349 Carmo per Sempre***\nBARDINETO AREA: 508 Appendaun\n\n*********************************************************************************************************************************\n\nAny updates regarding the areas not yet included will be communicated as soon as they become available.",
-      "title": "HUNTING TRIP - 18th NOVEMBER, 2026"
-    },
-    {
-      "date": "2026-11-18",
-      "text": "*IN ADDITION* to those already mentioned for the hunting trip, please note that the following trails will be CLOSED on Wednesday, 18th November.\n\nMANIE AREA: 3 Ca du Puncin - Indiano Trail***\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail - 352 Aleluya***\nMALLARE AREA: 441 Trail del Boccion - 445 Benvento Beeches***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2***\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 18th NOVEMBER 2026"
-    },
-    {
-      "date": "2026-11-18",
-      "text": "IN ADDITION to those already mentioned, please note that the following trail will ALSO be CLOSED today:\nVAL NEVA AREA: 541 Parpage\n*********************************************************************************************************************************\n\nOn Wednesday, 18th November, the following trails will be CLOSED for a hunting trip:\n\nSAN BERNARDINO AREA: 56 Ruggetta - 58 Sporting***\nMONTE CARMO AREA: 349 Carmo per Sempre***",
-      "title": "!! UPDATE: HUNTING TRIP - 18th NOVEMBER, 2026"
+      "date": "2026-11-19",
+      "text": "Please note that the following trails will be CLOSED on Thursday, 19th November:\n\nMANIE AREA: 3 Ca du Puncin - Indiano Trail***\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail - 352 Aleluya***\nMALLARE AREA: 441 Trail del Boccion - 445 Benvento Beeches***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2***\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 19th NOVEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 4,
+    "closed_count": 15,
     "state": "partial"
   }
 }
