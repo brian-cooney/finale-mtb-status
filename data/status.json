@@ -1,6 +1,6 @@
 {
-  "as_of_date": "2026-11-19",
-  "checked_at": "2026-11-19T15:34:57Z",
+  "as_of_date": "2026-11-20",
+  "checked_at": "2026-11-19T22:54:15Z",
   "closed_trails": [
     {
       "area": "MANIE AREA",
@@ -38,11 +38,6 @@
       "trail": "441 Trail del Boccion"
     },
     {
-      "area": "MALLARE AREA",
-      "note": "",
-      "trail": "445 Benvento Beeches"
-    },
-    {
       "area": "BARDINETO AREA",
       "note": "",
       "trail": "501 Dondella"
@@ -78,17 +73,17 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-11-18T17:46:48Z",
+  "generated_at": "2026-11-19T22:54:15Z",
   "notices": [
     {
-      "date": "2026-11-19",
-      "text": "Please note that the following trails will be CLOSED on Thursday, 19th November:\n\nMANIE AREA: 3 Ca du Puncin - Indiano Trail***\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail - 352 Aleluya***\nMALLARE AREA: 441 Trail del Boccion - 445 Benvento Beeches***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2***\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 19th NOVEMBER 2026"
+      "date": "2026-11-20",
+      "text": "Please note that the following trails will be CLOSED on Friday, 20th November:\n\nMANIE AREA: 3 Ca du Puncin - Indiano Trail***\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail - 352 Aleluya***\nMALLARE AREA: 441 Trail del Boccion***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2***\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 20th NOVEMBER 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 15,
+    "closed_count": 14,
     "state": "partial"
   }
 }
