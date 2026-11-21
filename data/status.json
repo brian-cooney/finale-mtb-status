@@ -1,17 +1,7 @@
 {
-  "as_of_date": "2026-11-21",
-  "checked_at": "2026-11-21T09:29:24Z",
+  "as_of_date": "2026-11-22",
+  "checked_at": "2026-11-21T16:54:52Z",
   "closed_trails": [
-    {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "3 Ca du Puncin"
-    },
-    {
-      "area": "MANIE AREA",
-      "note": "",
-      "trail": "Indiano Trail"
-    },
     {
       "area": "MELOGNO AREA",
       "note": "",
@@ -73,17 +63,22 @@
       "trail": "609 Guidone pt.2"
     }
   ],
-  "generated_at": "2026-11-20T20:40:12Z",
+  "generated_at": "2026-11-21T16:54:52Z",
   "notices": [
     {
-      "date": "2026-11-21",
-      "text": "Please note that the following trails will be CLOSED on Saturday 21st November:\n\nMANIE AREA: 3 Ca du Puncin - Indiano Trail***\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail - 352 Aleluya***\nMALLARE AREA: 441 Trail del Boccion***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2***\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
-      "title": "TRAIL STATUS - 21st NOVEMBER 2026"
+      "date": "2026-11-22",
+      "text": "IN ADDITION to those already mentioned for the hunting trip, please note that the following trails will be closed on Sunday, 22nd November.\n\nMANIE AREA: 3 Ca du Puncin - Indiano Trail***\nMELOGNO AREA: 179 Fast and Furious***\nSPOTORNO AREA: 303 Express Bridge***\nMONTE CARMO AREA: 345 Karma Trail - 352 Aleluya***\nMALLARE AREA: 441 Trail del Boccion***\nBARDINETO AREA: 501 Dondella - 507 Green River***\nVAL NEVA AREA: 535 Valle Auzza - 536 Rio***\nVADO LIGURE AREA: 607 Pineta - 608 Guidone - 609 Guidone pt.2***\n\n**********************************************************************************************************************************************\nPlease note that due to the weather forecast, additional closures may be announced early tomorrow morning.\n\n*********************************************************************************************************************************\n\nFor updates on trail conditions, we invite you to follow our WhatsApp channel (https://whatsapp.com/channel/0029VaBhb7TLNSZzuaz6pA3R) or our Telegram channel (https://t.me/FORliveinfo), where we post updates as soon as they become available.\n\n*********************************************************************************************************************************\n\nThank you for your attention.",
+      "title": "TRAIL STATUS - 22nd NOVEMBER 2026"
+    },
+    {
+      "date": "2026-11-22",
+      "text": "On Sunday, 22nd November, the following trails will be CLOSED for a hunting trip:\n\nNATO BASE AREA: 93 H Veloce***\nORCO-VEZZI AREA: 134 Supergroppo***\nMELOGNO AREA: 176 Bric Merizzo - 177 Tagliego***\nMONTE CARMO AREA: 349 Carmo per Sempre - 355 XC Giustenice - 358 Hiroshima Mon Amour - 361 Hell Boy 1 - 362 Hell Boy 2***\nVAL NEVA AREA: 537 Ca du Campo - 541 Parpage\n\n*********************************************************************************************************************************\n\nAny updates regarding the areas not yet included will be communicated as soon as they become available.",
+      "title": "HUNTING TRIP - 22nd NOVEMBER, 2026"
     }
   ],
   "source": "https://www.finaleoutdoor.com/en/live/bike",
   "summary": {
-    "closed_count": 14,
+    "closed_count": 12,
     "state": "partial"
   }
 }
